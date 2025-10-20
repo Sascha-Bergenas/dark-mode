@@ -5,18 +5,18 @@ body {
   height: 100vh;
   background-color: white;
   color: black;
-  transition: 0.5s;
+  transition: 1s;
 }
 .dark-mode {
   color: white;
   background-color: black;
   font-size: 5rem;
-  transition: 0.5s;
+  transition: 1s;
 }
 .light-mode {
   color: black;
   background-color: white;
-  transition: 0.5s;
+  transition: 1s;
 }
 button {
   border: none;
